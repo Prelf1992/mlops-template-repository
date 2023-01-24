@@ -1091,3 +1091,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_36: Style: Refactor code in workflow to resolve issue. at 2023-01-19 17:53:45
 * Commit 2023_37: Chore: Fix bug in utility to align with standards. at 2023-01-19 12:05:18
 * Commit 2023_38: CI: Refactor code in script to align with standards. at 2023-01-24 15:24:51
+* Commit 2023_39: Fix: Improve styling of README to align with standards. at 2023-01-24 14:30:08
