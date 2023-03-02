@@ -1141,3 +1141,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_86: Style: Fix bug in README to support new requirements. at 2023-03-01 12:18:32
 * Commit 2023_87: CI: Fix bug in script for better maintainability. at 2023-03-02 14:47:37
 * Commit 2023_88: Feat: Refactor code in component to improve user experience. at 2023-03-02 13:48:09
+* Commit 2023_89: Refactor: Configure CI for UI for better maintainability. at 2023-03-02 11:09:15
