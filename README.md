@@ -1143,3 +1143,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_88: Feat: Refactor code in component to improve user experience. at 2023-03-02 13:48:09
 * Commit 2023_89: Refactor: Configure CI for UI for better maintainability. at 2023-03-02 11:09:15
 * Commit 2023_90: Feat: Configure CI for module for better maintainability. at 2023-03-07 10:38:57
+* Commit 2023_91: Refactor: Fix bug in UI to enhance functionality. at 2023-03-07 11:49:30
