@@ -1178,3 +1178,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_123: CI: Add new feature database for faster execution. at 2023-03-20 12:08:32
 * Commit 2023_124: Docs: Improve styling of utility to align with standards. at 2023-03-21 11:44:09
 * Commit 2023_125: Style: Update build config algorithm to align with standards. at 2023-03-21 11:06:38
+* Commit 2023_126: Build: Update documentation for utility to improve user experience. at 2023-03-22 09:32:46
