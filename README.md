@@ -1200,3 +1200,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_145: Style: Update documentation for script to resolve issue. at 2023-03-31 17:26:25
 * Commit 2023_146: Chore: Refactor code in utility to support new requirements. at 2023-03-31 16:16:10
 * Commit 2023_147: CI: Fix bug in script to align with standards. at 2023-04-03 13:34:34
+* Commit 2023_148: Feat: Refactor code in README to resolve issue. at 2023-04-03 12:49:52
