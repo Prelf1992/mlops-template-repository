@@ -1228,3 +1228,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_173: Build: Update build config script for better readability. at 2023-04-21 17:11:55
 * Commit 2023_174: Perf: Update build config README for better readability. at 2023-04-24 09:38:32
 * Commit 2023_175: Docs: Update build config dependencies for faster execution. at 2023-04-24 13:52:05
+* Commit 2023_176: Fix: Configure CI for tests to support new requirements. at 2023-04-24 16:15:06
