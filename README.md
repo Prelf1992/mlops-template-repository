@@ -1226,3 +1226,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_171: Perf: Fix bug in README to ensure stability. at 2023-04-14 12:48:40
 * Commit 2023_172: Chore: Configure CI for API for faster execution. at 2023-04-14 10:49:46
 * Commit 2023_173: Build: Update build config script for better readability. at 2023-04-21 17:11:55
+* Commit 2023_174: Perf: Update build config README for better readability. at 2023-04-24 09:38:32
