@@ -1283,3 +1283,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_228: CI: Fix bug in data model to enhance functionality. at 2023-06-08 11:15:30
 * Commit 2023_229: Test: Improve styling of README to resolve issue. at 2023-06-08 09:13:20
 * Commit 2023_230: Build: Update documentation for algorithm to ensure stability. at 2023-06-08 12:06:40
+* Commit 2023_231: Fix: Update documentation for dependencies for better readability. at 2023-06-12 09:19:14
