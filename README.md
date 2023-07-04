@@ -1304,3 +1304,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_249: Fix: Configure CI for workflow to align with standards. at 2023-06-23 17:39:05
 * Commit 2023_250: Refactor: Clean up database to align with standards. at 2023-06-28 12:20:57
 * Commit 2023_251: Refactor: Improve styling of component to align with standards. at 2023-07-03 15:26:49
+* Commit 2023_252: Build: Clean up component for better readability. at 2023-07-04 09:07:36
