@@ -1361,3 +1361,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_306: Feat: Update documentation for UI for better readability. at 2023-08-09 16:16:16
 * Commit 2023_307: Docs: Fix bug in database to resolve issue. at 2023-08-09 16:15:05
 * Commit 2023_308: Refactor: Update build config README to improve user experience. at 2023-08-10 10:46:25
+* Commit 2023_309: Refactor: Improve styling of tests to improve user experience. at 2023-08-10 15:48:23
