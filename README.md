@@ -1417,3 +1417,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_362: Perf: Configure CI for tests to ensure stability. at 2023-09-14 13:19:24
 * Commit 2023_363: Chore: Optimize performance of algorithm for better maintainability. at 2023-09-15 17:01:20
 * Commit 2023_364: Build: Improve styling of script for better readability. at 2023-09-15 09:48:58
+* Commit 2023_365: Refactor: Refactor code in tests for better maintainability. at 2023-09-15 09:34:15
