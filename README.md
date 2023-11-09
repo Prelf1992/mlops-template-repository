@@ -1471,3 +1471,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_416: Refactor: Update documentation for tests for better readability. at 2023-11-08 10:45:45
 * Commit 2023_417: Docs: Add tests for README to resolve issue. at 2023-11-08 10:14:06
 * Commit 2023_418: Chore: Improve styling of module to resolve issue. at 2023-11-08 09:25:59
+* Commit 2023_419: Feat: Configure CI for tests to support new requirements. at 2023-11-09 17:23:51
