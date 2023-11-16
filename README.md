@@ -1484,3 +1484,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_429: Perf: Fix bug in README for better maintainability. at 2023-11-15 12:12:48
 * Commit 2023_430: Feat: Add new feature script to enhance functionality. at 2023-11-15 11:02:11
 * Commit 2023_431: Feat: Configure CI for workflow for better readability. at 2023-11-15 16:39:30
+* Commit 2023_432: Chore: Refactor code in script for better maintainability. at 2023-11-16 09:28:54
