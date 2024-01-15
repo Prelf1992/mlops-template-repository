@@ -576,3 +576,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_21: CI: Configure CI for README to ensure stability. at 2024-01-11 11:16:58
 * Commit 2024_22: Refactor: Refactor code in component for better maintainability. at 2024-01-11 16:15:26
 * Commit 2024_23: Chore: Improve styling of tests to improve user experience. at 2024-01-15 12:35:31
+* Commit 2024_24: Refactor: Add tests for tests to align with standards. at 2024-01-15 10:16:17
