@@ -687,3 +687,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_132: CI: Add tests for database to support new requirements. at 2024-04-08 15:17:04
 * Commit 2024_133: Refactor: Fix bug in workflow to align with standards. at 2024-04-08 11:33:38
 * Commit 2024_134: Refactor: Update documentation for UI for better readability. at 2024-04-09 16:43:52
+* Commit 2024_135: Feat: Update documentation for README for better readability. at 2024-04-09 13:47:38
