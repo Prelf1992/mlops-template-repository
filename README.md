@@ -707,3 +707,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_152: Test: Configure CI for README to improve user experience. at 2024-04-24 13:50:16
 * Commit 2024_153: Feat: Update documentation for UI for better maintainability. at 2024-04-24 10:38:22
 * Commit 2024_154: Test: Clean up algorithm to ensure stability. at 2024-04-29 11:19:30
+* Commit 2024_155: Refactor: Update build config workflow for better maintainability. at 2024-04-29 09:17:14
