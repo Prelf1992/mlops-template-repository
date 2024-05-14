@@ -741,3 +741,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_186: Chore: Improve styling of workflow to resolve issue. at 2024-05-10 13:26:16
 * Commit 2024_187: Refactor: Add new feature data model for faster execution. at 2024-05-13 11:41:03
 * Commit 2024_188: Chore: Refactor code in utility for better readability. at 2024-05-13 15:52:50
+* Commit 2024_189: Build: Refactor code in script to align with standards. at 2024-05-14 10:05:04
