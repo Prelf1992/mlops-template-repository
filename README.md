@@ -69,3 +69,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 14: Test: Add tests for script to enhance functionality. at 2024-11-12 15:34:25
 * Commit 15: Refactor: Clean up workflow for better maintainability. at 2024-11-12 12:05:41
 * Commit 16: Chore: Update documentation for data model to enhance functionality. at 2024-11-12 09:50:54
+* Commit 17: Docs: Fix bug in README for better readability. at 2024-11-12 16:02:16
