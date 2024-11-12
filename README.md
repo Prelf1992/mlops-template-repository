@@ -67,3 +67,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 12: Docs: Fix bug in README to align with standards. at 2024-11-11 15:15:44
 * Commit 13: Feat: Refactor code in tests to align with standards. at 2024-11-11 12:13:45
 * Commit 14: Test: Add tests for script to enhance functionality. at 2024-11-12 15:34:25
+* Commit 15: Refactor: Clean up workflow for better maintainability. at 2024-11-12 12:05:41
