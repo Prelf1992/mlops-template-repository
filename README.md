@@ -153,3 +153,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 98: Fix: Add new feature tests to improve user experience. at 2025-02-10 12:33:08
 * Commit 99: CI: Clean up README to resolve issue. at 2025-02-12 17:31:10
 * Commit 100: CI: Clean up workflow for better readability. at 2025-02-12 13:10:49
+* Commit 101: CI: Update documentation for script to support new requirements. at 2025-02-12 10:16:11
