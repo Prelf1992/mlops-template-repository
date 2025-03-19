@@ -182,3 +182,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 127: Style: Improve styling of README for better maintainability. at 2025-03-14 12:44:46
 * Commit 128: Style: Configure CI for UI to improve user experience. at 2025-03-18 16:57:50
 * Commit 129: Docs: Clean up UI for better maintainability. at 2025-03-18 16:38:52
+* Commit 130: Chore: Update build config API for better readability. at 2025-03-19 11:57:32
