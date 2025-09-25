@@ -378,3 +378,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 323: CI: Add tests for UI for faster execution. at 2025-09-24 13:48:48
 * Commit 324: CI: Refactor code in README to align with standards. at 2025-09-25 16:23:32
 * Commit 325: Refactor: Add tests for module to improve user experience. at 2025-09-25 10:32:50
+* Commit 326: Feat: Refactor code in tests to improve user experience. at 2025-09-25 11:16:49
