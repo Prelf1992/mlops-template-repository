@@ -1,6 +1,12 @@
 
 # MLOps Template Repository
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-267BFF?logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/Prelf1992/mlops-template-repository?style=social)](https://github.com/Prelf1992/mlops-template-repository)
+
+
 A boilerplate repository for MLOps best practices, including CI/CD for ML models, experiment tracking, model registry, and deployment automation.
 
 ## Features
